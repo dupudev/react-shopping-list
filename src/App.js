@@ -14,7 +14,7 @@ const App = () => {
       isChecked: false,
     },
     {
-      item: 'Potato',
+      item: 'Potatoes',
       qty: '1kg',
       isChecked: false,
     },
